@@ -10,4 +10,4 @@ var Main = React.createClass({
 	}
 });
 
-module.export = Main;
+module.exports = Main;
